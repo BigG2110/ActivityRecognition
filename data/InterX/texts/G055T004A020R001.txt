@@ -1,0 +1,3 @@
+The first person sits on a bench, while the second person stands in front of him/her. They proceed to play a game of rock, paper, scissors. The first person chooses "rock", "rock", and "cloth" in sequence, while the second person chooses "scissors", "rock", and "rock" in sequence.
+The first person lies on a recliner, while the second person stands to his/her left. They are playing a game of "rock-paper-scissors". Ultimately, the first person selects "paper" and the second person chooses "rock".
+One person reclines on a recliner, while the other stands to their left. Engaged in a game of "rock-paper-scissors," the first person ultimately selects "paper," and the second person chooses "rock."

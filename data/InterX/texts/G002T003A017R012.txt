@@ -1,0 +1,3 @@
+The first person chases the second person from behind on his/her right side.
+One person backpedals while jogging, and the other person faces the first person and chases after him/her.
+Two people stand in line, one in front of the other, facing the same direction. The person behind moves forward and starts running, catching up to the person in front. The person in front turns around.

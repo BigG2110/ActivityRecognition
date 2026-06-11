@@ -1,0 +1,3 @@
+Two people play rock-paper-scissors. In the first round, paper is beaten by rock; in the second round, rock and rock tie; in the third round, paper is beaten by rock.
+Two people play rock-paper-scissors. The first person reveals a fist with his/her right hand, and the second person reveals an open hand with his/her right hand.
+The two people extend their arms, face each other, and play rock-paper-scissors, repeating the game three times.

@@ -1,0 +1,3 @@
+One person walks towards the other person who is sitting. The seated person, upon seeing this, stands up and also walks towards the first person.
+A single individual approaches another individual who is seated. The person who is sitting, upon noticing this, rises and also moves towards the initial person.
+Two people face each other, walk towards each other, and stop when they reach one another.

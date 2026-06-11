@@ -1,0 +1,3 @@
+One person sits on a chair and plays rock-paper-scissors with his/her right hand against his/her colleague, while the other person stands and also plays rock-paper-scissors with his/her right hand against his/her colleague, ultimately choosing rock.
+The initial individual occupies a seat, while the subsequent individual positions himself/herself in his/her presence, engaging in a game of rock-paper-scissors. The former individual selects paper utilizing his/her left hand, whereas the latter individual opts for rock employing his/her right hand.
+The first person sits in a chair, the second person stands in front of him/her, and they play rock-paper-scissors. The first person plays paper with his/her left hand, and the second person plays rock with his/her right hand.

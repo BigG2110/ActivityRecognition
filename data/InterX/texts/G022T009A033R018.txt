@@ -1,0 +1,3 @@
+Two people mirror each other's movements by taking a step to the left and then a step to the right.
+One person steps side to side, and the other person imitates his/her movements.
+One person moves back and forth, while the other person follows his/her motion.

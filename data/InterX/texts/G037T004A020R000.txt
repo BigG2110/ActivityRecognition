@@ -1,0 +1,3 @@
+One person holds out rock-paper-scissors with one hand, while the other person also holds out rock-paper-scissors with one hand.
+Two people face each other, playing rock-paper-scissors. They play three games. The first person's turn results in scissors, stone, and stone. The second person's turn results in rock, paper, and scissors.
+Two people stand facing each other and play rock-paper-scissors. They extend their right hands simultaneously. The first person chooses rock, scissors, and paper, while the second person chooses scissors, rock, and rock.

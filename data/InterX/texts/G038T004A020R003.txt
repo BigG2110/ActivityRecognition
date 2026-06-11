@@ -1,0 +1,3 @@
+One person sits at the table, holding rock-paper-scissors, while the other person sits across from him/her, also holding rock-paper-scissors.
+Two people sit face to face, the first person gives his/her right hand, the second person gives his/her left hand, to play rock, paper, scissors. They play a total of three games.
+Two people sit facing each other, playing rock-paper-scissors. They both extend their right hands. The first person shows paper, scissors, and paper in sequence, while the second person shows paper, rock, and rock in sequence.

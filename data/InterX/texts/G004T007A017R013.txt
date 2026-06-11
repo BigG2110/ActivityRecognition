@@ -1,0 +1,3 @@
+The two people walk in a circle at first, then he starts chasing after her by running in a circle.
+Two people walk towards each other, but suddenly one person starts chasing the other person, causing the other person to also start running.
+Two people face each other, one person moves forward to chase the other person, and they both spin clockwise in a circle.

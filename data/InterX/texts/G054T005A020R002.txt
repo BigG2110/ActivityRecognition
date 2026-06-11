@@ -1,0 +1,3 @@
+Two people stand facing each other and guess each other's hand. In the first round, they both step forward and reveal "rocks". After that, the first person consistently reveals "claws", "scissors", and "rocks". The second person consistently reveals "claws", "rocks", and "claws".
+Two people play rock-paper-scissors. The first person places his/her left hand on his/her hip, and his/her right hand throws a rock. The second person lets his/her left hand hang naturally, and his/her right hand also throws a rock.
+Two people face each other, playing one round of rock-paper-scissors with their right hands, returning to a standing position, and then playing three more rounds with their hands moving from head to abdomen.

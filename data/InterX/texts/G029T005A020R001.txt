@@ -1,0 +1,3 @@
+One person extends his/her right hand for rock paper scissors, and the other person mirrors the gesture. However, the latter person opts out of the final round and lowers his/her right hand prematurely.
+Two people offer their right hands to participate in a game of rock-paper-scissors. The initial action of the first individual involves making a closed hand, but he subsequently reveals paper. Conversely, the second person starts by showing paper and then switches to a closed hand on his second attempt.
+Two individuals extend their right hands to engage in a game of rock-paper-scissors. The first person initially forms a fist, then reveals paper on his/her second attempt. The second person, on the other hand, displays paper initially and a fist on his/her second try.

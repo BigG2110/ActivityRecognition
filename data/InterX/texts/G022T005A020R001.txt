@@ -1,0 +1,3 @@
+Two people sit across from each other and play a game of rock-paper-scissors, playing a total of three rounds.
+Two people sit and play finger-guessing, with one person consistently choosing rock and the other consistently choosing paper.
+Two people sit on different sides and play finger-guessing, with one person using his/her right hand and the other person using his/her left hand.

@@ -1,0 +1,3 @@
+Two people stand face to face, playing a game of Rock, Paper, Scissors. They play a total of three rounds.
+Two people stand and play finger-guessing. One person shows scissors, rock, and paper. The other person shows scissors, rock, and rock.
+Two people stand facing each other and play a game of finger-guessing using their right hands.

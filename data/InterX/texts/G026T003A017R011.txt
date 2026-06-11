@@ -1,0 +1,3 @@
+A person chases after the other person, and the other person stops.
+The first person runs forward to chase the second person, while the second person holds his/her hands in front of his/her chest and takes steps forward.
+One person jogs in front, and the other person catches up from behind, resulting in a collision. The person covers his/her head in pain.

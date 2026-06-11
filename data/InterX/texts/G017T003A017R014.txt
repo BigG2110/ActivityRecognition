@@ -1,0 +1,3 @@
+A person stands up, turns to face the other person who is sitting, and then starts jogging. The other person, upon seeing this, also stands up and begins running counterclockwise.
+An individual rises, pivots towards the seated person, and proceeds to jog. Upon witnessing this, the seated person also stands and commences running in an anticlockwise direction.
+Two people face each other. One person walks up to the other person, then turns around and starts running away, while the other person starts chasing after him/her.

@@ -1,0 +1,3 @@
+The first person walks towards the second person and turns his/her body to collide with him/her. The second person is pushed and moves to his/her left side after the collision.
+The first person takes a few steps forward, accidentally bumping his left arm into the other person's right arm. Afterward, he turns around and starts running backward for a few steps.
+Two people walk towards each other, with one person pushing the other's left shoulder using his/her right shoulder, causing the other person to take a few steps back.

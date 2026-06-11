@@ -1,0 +1,3 @@
+Two people stand facing each other, with one person extending his/her right hand and the other extending his/her left hand. They play rock-paper-scissors three times.
+The initial individual shakes rock paper scissors vertically using their left hand, whereas the second individual shakes rock paper scissors utilizing their right hand.
+The first person shakes rock paper scissors up and down with his/her left hand, while the other person shakes rock paper scissors with his/her right hand.

@@ -1,0 +1,3 @@
+Two individuals participate in a chase, where one person pursues the other by running in a direction opposite to the clockwise rotation.
+Two individuals engage in a pursuit, wherein one person moves in a counterclockwise direction while chasing the other person.
+Two people run, with one person running in anticlockwise circles as he/she chases the other person.

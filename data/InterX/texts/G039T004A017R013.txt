@@ -1,0 +1,3 @@
+One person runs in front while the other person chases from behind. When he/she catches up, he/she turns around and runs away, while the person in front turns around and starts chasing the escaping person.
+One person chases the other person, and then the other person chases him/her back, after that the other person turns around and starts chasing the first person again.
+One person initially chases the other person, but the other person stops and chases the first person back, while the first person now runs away.

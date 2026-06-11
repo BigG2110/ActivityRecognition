@@ -1,0 +1,3 @@
+The first person chases after the second person, who is jogging clockwise in a circle.
+The first person runs clockwise around the circle, and the second person chases him/her from behind.
+One person is in front and the other is behind. He/she at the back runs forward to chase the other person, who is running away.

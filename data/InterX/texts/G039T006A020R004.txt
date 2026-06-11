@@ -1,0 +1,3 @@
+Two people face each other and play three rounds of rock-paper-scissors. One person starts with his/her left hand, then uses both hands, and finally switches to his/her right hand, while the other person plays with his/her right hand.
+Two people face each other and play rock-paper-scissors. In the first round, one person chooses cloth and the other person chooses scissors. In the second round, one person chooses scissors and the other person chooses cloth. In the third round, one person chooses cloth and the other person chooses stone.
+One person does finger guessing with his left hand, while the other person does it with both hands.

@@ -1,0 +1,3 @@
+A person extends both fists and punches the other person, who takes a step back.
+The first person runs to the left and punches the other person's left arm with both fists, while the second person moves to the right. Then, the first person walks to the right and the second person walks to the left, returning to their initial positions.
+A man runs over and hits the other man on his left shoulder.

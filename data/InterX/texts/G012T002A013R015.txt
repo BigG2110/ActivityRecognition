@@ -1,0 +1,3 @@
+The first person stands. The second person walks towards him.
+The initial individual remains upright, while the subsequent individual proceeds to move directly ahead of him/her.
+The first person stands, while the second person walks directly in front of him/her.

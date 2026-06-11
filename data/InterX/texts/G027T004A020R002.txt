@@ -1,0 +1,3 @@
+Two people play rock-paper-scissors, with each round resulting in a tie as they both choose rock.
+Two people play rock-paper-scissors with their right hands, putting their right hand behind their back and revealing a fist three times.
+Both individuals hide their hands behind their bodies and then extend their right hands from behind to play rock-paper-scissors.

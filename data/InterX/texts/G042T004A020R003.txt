@@ -1,0 +1,3 @@
+A human sits with their left hand playing rock-paper-scissors with another human and produces paper, while the other human sits with their right hand playing rock-paper-scissors and produces rock.
+One person is seated, engaging in a game of rock-paper-scissors with another individual using his/her left hand, and he/she chooses paper, while the other person is seated, playing rock-paper-scissors with his/her right hand and chooses rock.
+Two people sit facing each other, playing rock-paper-scissors with their right hands. One person chooses rock, while the other person chooses paper.

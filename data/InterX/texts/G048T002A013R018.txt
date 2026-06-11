@@ -1,0 +1,3 @@
+Two people walk towards each other face to face, and when they pass by, one person turns back to look at the other person.
+Two individuals are positioned in front of each other. The initial individual proceeds to move a short distance closer to the second individual. In response, the second individual also takes a few steps towards the first individual. Subsequently, both individuals pivot in the opposite direction.
+Two people stand face to face. The first person takes a few steps towards the second person. The second person also takes a few steps towards the first person. Then, they both turn around.

@@ -1,0 +1,3 @@
+Two people are playing rock-paper-scissors. In the first round, one person shows rock while the other shows paper. In the second round, one person shows paper and the other shows rock. In the third round, they both show rock.
+Two people play rock-paper-scissors face to face. The first person stretches out his/her left hand and punches, while the second person stretches out his/her right hand and punches.
+Two people stand face to face, extending their left and right hands respectively, and play rock-paper-scissors simultaneously.

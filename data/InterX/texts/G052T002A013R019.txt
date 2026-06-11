@@ -1,0 +1,3 @@
+Two people stand facing each other and walk towards each other simultaneously.
+The initial individual visits the subsequent individual, while he/she proceeds to approach another individual.
+The first person goes to the second person, and the second person goes to another person.

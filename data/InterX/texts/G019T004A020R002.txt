@@ -1,0 +1,3 @@
+Two people play rock-paper-scissors and they play a total of three rounds.
+One person lifts up his/her arm and reaches out in front with a clenched fist, while the other person raises his/her hand with all fingers spread. They are playing finger-guessing.
+One person holds out his/her left hand while the other person also holds out his/her left hand in a rock-paper-scissors game.

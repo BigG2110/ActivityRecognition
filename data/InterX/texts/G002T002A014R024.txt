@@ -1,0 +1,3 @@
+The first person walks towards the other person and heavily knocks his left shoulder with the other person's left shoulder when they meet, causing the second person to fall to the ground.
+Two people stand facing each other. The first person walks towards the second person, and his/her left arm collides with the second person's left arm, causing him/her to fall to the ground.
+Two people face each other, and one person walks forward, bumping his/her left shoulder into the other person's left shoulder when they are aligned. The other person falls to the ground after being bumped.

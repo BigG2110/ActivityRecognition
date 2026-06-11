@@ -1,0 +1,3 @@
+The first person chases after the second person, who is jogging counterclockwise in a circle.
+The second person chases the first person in a light jog, and both of them run counterclockwise.
+Two people stand facing the same direction, one in front of the other. The person in front runs in a counterclockwise circle while the person behind chases in the same manner.

@@ -1,0 +1,3 @@
+The first person turns around and walks forward, while the second person stands behind him/her and runs towards the first person. As a result, the second person collides with the first person's left shoulder using his/her right shoulder. Subsequently, the first person turns around.
+The first person turns around and faces backward, while the second person runs forward from behind the first person. Their right hand accidentally bumps into the back of the first person.
+One man chases another man and runs a few steps before bumping into the other man's back.

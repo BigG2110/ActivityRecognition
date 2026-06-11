@@ -1,0 +1,3 @@
+Two people stand facing each other. One person rotates once to the right and returns to the original position. The other person imitates his/her movements.
+Two people stand facing each other, one turns to the right and the other imitates his/her movement.
+The first guy spins in place, and then the second guy does the same thing.

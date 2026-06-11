@@ -1,0 +1,3 @@
+A person who is sitting stands up first, followed by another person who is also sitting, and then the first person chases the second person.
+A person sitting stands up and runs towards the other person who is also sitting. The other person stands up and starts jogging slowly.
+A seated person supports himself/herself with his/her hands and stands up quickly, then runs towards another person who is sitting sideways. While the first person is moving, the second person shifts his/her body forward and prepares himself/herself. After the first person stands up, the second person also stands up and runs forward, avoiding the first person.

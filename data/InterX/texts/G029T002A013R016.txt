@@ -1,0 +1,3 @@
+One person walks towards the other person, and the other person walks to the right to avoid him/her.
+One individual approaches the other individual, while the other individual moves towards the right in order to evade him/her.
+One person walks towards the other person and stops on the left side of him/her.

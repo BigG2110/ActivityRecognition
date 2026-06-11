@@ -1,0 +1,3 @@
+The first person sits on a bench while the second person sits in front of him/her. They play a game of rock, paper, scissors. The first person chooses "rock", "rock", and "cloth" in order, while the second person chooses "scissors", "rock", and "rock" in order.
+Two people pull up chairs and sit face to face, starting to play "rock-paper-scissors". In the end, they both choose "rock".
+The two individuals face each other and engage in a game of rock-paper-scissors using their right hands. They repeat this action three times, moving their hands from their heads to the front of their abdomen.

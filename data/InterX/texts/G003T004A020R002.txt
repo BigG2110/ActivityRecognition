@@ -1,0 +1,3 @@
+Two people are playing finger-guessing. They play for one round, with the first person using his/her right hand and the second person using his/her right hand as well. The first person chooses scissors, and the second person also chooses scissors.
+Two people stand facing each other, extending their right hands to play rock-paper-scissors.
+Two people stand facing each other and raise their right hands to play rock-paper-scissors. One person selects scissors, while the other person chooses paper.

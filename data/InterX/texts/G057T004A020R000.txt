@@ -1,0 +1,3 @@
+The first person produces rock-paper-scissors in his right hand, while the other person also produces rock-paper-scissors in his right hand.
+The two people sit facing each other, extending their right hands for a game of rock-paper-scissors. The first person throws out paper, while the second person throws out rock.
+Two people sit facing each other and play rock-paper-scissors three times with their right hand, moving their hands from their heads to the front of their abdomens.

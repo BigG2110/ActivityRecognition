@@ -1,0 +1,3 @@
+Two people face each other, raising their right hands simultaneously for rock-paper-scissors. The first person selects rock, paper, and rock, while the second person selects scissors, paper, and rock, respectively.
+The two men stand, raising their right hands above their heads and punching down. They play rock, paper, scissors for three games.
+Two people stand facing each other, raising their right hands simultaneously for rock-paper-scissors. The first person goes for rock, paper, and rock, while the other person selects scissors, paper, and rock, in turn.

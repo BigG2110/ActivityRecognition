@@ -1,0 +1,3 @@
+Two individuals are engaged in a game of finger-guessing. They begin by placing their right hands behind their backs and then making a punching motion. The first person chooses scissors on his/her second attempt and paper on his/her third attempt. The second person selects paper on his/her first attempt, rock on his/her second attempt, and scissors on his/her third attempt.
+Two people stand facing each other and place the backs of their hands behind their backs to play "rock, paper, scissors."
+Two people are facing each other, playing a game of rock-paper-scissors. They both make a fist for their move on the first and second rounds. However, on the third round, one person shows an open palm (paper) while the other person makes a fist (rock).

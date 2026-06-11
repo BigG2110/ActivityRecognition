@@ -1,0 +1,3 @@
+The first person chases the second person who is initially sitting on the chair to his/her right, but then the second person stands up and runs away.
+The first person sits in a chair while the second person runs towards him/her. The first person stands up to avoid the second person, who continues to chase him/her.
+Two people are standing sideways, with one person in front of the other. The person in front is sitting down. The person behind runs forward, causing him/her to stand up, run away, and move left and right.

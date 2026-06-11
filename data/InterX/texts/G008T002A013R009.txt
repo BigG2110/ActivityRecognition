@@ -1,0 +1,3 @@
+The first person walks forward, turns around, and walks a few steps back, while the second person walks towards him/her.
+The initial individual moves ahead, rotates, and takes a few steps in reverse, as the second individual approaches him/her.
+Two people face each other and walk towards each other, and when they come together, they both stop.

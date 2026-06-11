@@ -1,0 +1,3 @@
+One person runs, and then the other person chases him/her, and they run in an anticlockwise circle.
+The first person runs and turns left, and the second person chases the first person behind him.
+One person swings his/her arms in front of him/her while running, and the other person chases after him/her, mimicking the arm movements. They run in a circle, and after a while, the person in front stops.

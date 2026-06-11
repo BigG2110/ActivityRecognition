@@ -1,0 +1,3 @@
+Two people stand facing each other. One person raises his/her left hand, clenches his/her fist, and stretches it forward. The other person also raises his/her right hand simultaneously, clenches his/her fist, and stretches it forward. After stretching, the two people simultaneously compare the motion of scissors and rock-paper-scissors. They repeat this action twice.
+Two people play rock-paper-scissors. One person makes consecutive gestures of scissors, paper, and rock, while the other person only makes scissors and paper gestures.
+Two people stand facing each other, one extends his/her left hand while the other extends his/her right hand, guessing.

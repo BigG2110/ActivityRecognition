@@ -1,0 +1,3 @@
+Two people stand facing each other and guess the fist. The first person shows "rock" twice and then "scissors" in sequence, while the second person also shows "rock" twice and then "scissors" in sequence.
+The first person raises his/her left hand above his/her head, and the second person also raises his/her left hand. They both start playing rock-paper-scissors. Eventually, they both choose scissors.
+Two people face each other, one person using his/her left hand and the other person using his/her right hand, play the rock-paper-scissors game three times, drawing their hands from their head to the front of their abdomen.

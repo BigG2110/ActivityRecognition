@@ -1,0 +1,3 @@
+Two people play rock-paper-scissors. The first round is rock vs. rock, the second round is scissors vs. scissors, and the third round is rock vs. rock.
+Two people play rock-paper-scissors with their right hands. They both reveal a fist the first time, the first person reveals two fingers and the second person reveals an open hand the second time, and they both reveal a fist again the third time.
+Both individuals play rock-paper-scissors with their right hands simultaneously.

@@ -1,0 +1,3 @@
+Two people face each other, hide their right hands behind their backs, and then simultaneously extend their right hands to play rock-paper-scissors. They play three rounds in total.
+Two people face each other and play rock-paper-scissors. In the first round, one person chooses cloth and the other person also chooses cloth. In the second round, one person chooses scissors and the other person chooses cloth. In the third round, one person chooses stone and the other person also chooses stone.
+A game of rock-paper-scissors ensues, each round met with varying outcomes.

@@ -1,0 +1,3 @@
+The first person chases after the second person while he/she walks clockwise in a circle.
+The second person jogs after the first person, both running clockwise. The second person catches up and extends his/her right hand to pat the first person's right shoulder.
+Two people stand facing the same direction, one in front of the other, and they both start running in a clockwise circle. As they run, the person behind gradually increases his/her speed until he/she is able to reach out and grab the front person's right shoulder with his/her right hand.

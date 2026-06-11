@@ -1,0 +1,3 @@
+Two people stand facing each other, with one foot in front and the other foot behind, simultaneously extending their right hands to play "scissors, rock, paper." In the final round, one of them decides to change his/her scissors to paper.
+Both individuals face each other and play rock-paper-scissors. They play three rounds: in the first round, one person chooses paper and the other person chooses rock; in the second round, both choose rock; and in the third round, one person chooses paper and the other person chooses rock.
+Two people are standing and playing finger guessing, and the second person slows down during his/her third attempt.

@@ -1,0 +1,3 @@
+One person walks forward, while the other person walks backwards and turns to look back at him/her.
+One person follows behind the other person as he/she walks forward, and the other person notices and turns around to look back.
+One person turns left, walks while looking back, and eventually stops and turns around, while the other person follows closely behind.

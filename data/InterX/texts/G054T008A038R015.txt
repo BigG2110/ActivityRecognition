@@ -1,0 +1,3 @@
+Two people stand face to face. The first person attempts to move towards his/her right, while the second person moves towards his/her left in order to obstruct the first person.
+The first person runs towards his right direction, and the second person moves to the left to block him.
+One person runs to the left of the other person, and the other person moves to the left and opens their hands slightly to block.

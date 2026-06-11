@@ -1,0 +1,3 @@
+A standing person and a seated person play rock-paper-scissors with each other using his/her right hand.
+The initial individual occupies a seat, while the subsequent individual positions himself/herself facing the former, and both extend their right arms to engage in a game of rock-paper-scissors.
+The first person sits on a chair, the second person stands in front of the first person, and he/she both stretches out his/her right hand to play rock-paper-scissors.

@@ -1,0 +1,3 @@
+Two people stand facing each other. One person raises his/her left hand above his/her head and extends it forward, while the other person raises his/her right hand above his/her head and extends it backwards. They perform a stone, scissors, and cloth movement simultaneously.
+Two people play rock-paper-scissors. One person uses his/her right hand to make a scissors gesture three times. The other person uses his/her left hand to make a paper gesture once, then a rock gesture, and finally a scissors gesture.
+One person guesses with his/her left hand, right hand, and left hand, while the other continues guessing with his/her left hand.

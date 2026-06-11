@@ -1,0 +1,3 @@
+The first person stands still. The second person chases after the first person and runs forward. Then, the second person also starts running forward. He runs in circles around the first person.
+The initial individual remains stationary. The subsequent individual pursues the initial individual and proceeds to move ahead. Subsequently, the subsequent individual also commences moving ahead. He/she engages in circular running around the other person.
+The first person runs forward, and the second person follows behind, gradually closing the distance between him/her, and then they both come to a stop slowly.

@@ -1,0 +1,3 @@
+Two people face each other and simultaneously extend their right hands to play rock-paper-scissors. They play a total of nine rounds, with a winner being determined after every three rounds.
+Two people face each other and play rock-paper-scissors. In the first round, both players choose stone. In the second round, both players also choose stone. In the third round, one player chooses scissors and the other chooses cloth.
+Two people play rock-paper-scissors three times, and then they reveal the results.

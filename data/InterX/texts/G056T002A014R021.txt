@@ -1,0 +1,3 @@
+The first person runs towards the second person and bumps his/her right shoulder against the second person's right shoulder, causing the second person to take a few steps backward.
+The first person takes two steps forward, stops, and starts running. His/her right shoulder collides with the second person's right shoulder.
+A person runs towards another person, then his/her right shoulder touches the other person's left shoulder, and the other person is knocked backwards.

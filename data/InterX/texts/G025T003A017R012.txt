@@ -1,0 +1,3 @@
+Two people run in a clockwise circle, with one person chasing the other.
+A seated person stands up and chases after the other person.
+One person gets up from his/her seat and starts running to chase the other person who is standing nearby. The other person then starts running to evade the pursuit.

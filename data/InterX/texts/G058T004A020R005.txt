@@ -1,0 +1,3 @@
+The first person repeatedly produces rock-paper-scissors with his right hand, while the other person also repeatedly produces rock-paper-scissors with his right hand.
+The two individuals face each other, extending their right hands for a game of rock-paper-scissors. They play a total of three rounds.
+Two people face each other and play rock, paper, scissors three times with their right hands, moving from their heads to the front of their abdomens.

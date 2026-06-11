@@ -1,0 +1,3 @@
+The first person walks towards the second person, while the second person also walks towards the first person. When they meet, they pass each other.
+Two people are standing facing each other, but not in a straight line. The first person steps forward with his/her left foot, moving one position to the right of the second person, while the second person simultaneously steps forward with his/her right foot, moving one position to the right of the first person.
+Two people face each other, with one person lifting his/her left leg and walking naturally, while the other person simultaneously lifts his/her right leg and walks naturally. They pass each other and then come to a halt in the spot where the other person was standing.

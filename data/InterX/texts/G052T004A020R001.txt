@@ -1,0 +1,3 @@
+Two people stand facing each other, both extend their right hands, and perform rock-paper-scissors three times.
+The initial individual engages in a game of rock-paper-scissors using his left hand, and the subsequent individual also participates in a game of rock-paper-scissors.
+The first guy pulls out rock-paper-scissors with his left hand, and the second guy also pulls out rock-paper-scissors.

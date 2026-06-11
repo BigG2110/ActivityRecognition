@@ -1,0 +1,3 @@
+The two people stand facing each other and guess each other's hand. In the first round, they both show "claws". In the second round, they both show "rocks". In the third round, the first person shows "scissors" while the second person shows "rocks".
+Two people play rock-paper-scissors. The first person throws paper, then rock, and finally scissors. The second person throws paper, then rock, and finally rock.
+Two people face each other, playing one round of rock-paper-scissors with their right hands, returning to a standing position, and then playing three more rounds with their hands moving from head to abdomen.

@@ -1,0 +1,3 @@
+The two people play a game of rock-paper-scissors with their hands behind their backs, and they play a total of three rounds.
+Two people play finger-guessing with one hand hidden behind their back. One person shows paper three times, while the other person shows scissors, paper, and then paper.
+Two people stand facing each other, hiding their hands behind their backs, and then simultaneously extend their right hands to play rock, paper, scissors.

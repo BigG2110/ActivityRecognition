@@ -1,0 +1,3 @@
+Two people sit down and play a game of rock, paper, scissors. They play a total of four rounds.
+Two people sit and play finger-guessing. One person shows rock, rock, paper, and paper. The other person shows rock, rock, scissors, and then paper.
+Two people sit on chairs, one uses his/her left hand while the other uses his/her right hand to play finger-guessing.

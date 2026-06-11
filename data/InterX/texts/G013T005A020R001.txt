@@ -1,0 +1,3 @@
+The first person stands, while the second person stands in front of him/her. Both individuals extend their right hands forward and engage in multiple rounds of rock-paper-scissors.
+Two individuals face each other and engage in a game of rock-paper-scissors. The initial participant moves one step forward and stretches out his/her right hand, displaying rock, paper, scissors, rock. The second individual extends his/her right hand, revealing paper, rock, paper, scissors.
+Two people stand facing each other and play rock-paper-scissors. The first person takes a step forward and extends his/her right hand, revealing rock, paper, scissors, rock. The second person extends his/her right hand, revealing paper, rock, paper, scissors.

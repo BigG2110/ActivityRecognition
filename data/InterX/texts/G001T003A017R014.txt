@@ -1,0 +1,3 @@
+The first person chases after the second person while he/she jogs clockwise in a circle.
+The first person starts running and the second person chases after him/her, both running clockwise.
+Two people stand facing the same direction, one in front of the other. The person in front runs in a counterclockwise circle while the person behind chases in the same manner.

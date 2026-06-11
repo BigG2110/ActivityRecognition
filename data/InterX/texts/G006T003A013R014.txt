@@ -1,0 +1,3 @@
+The first person walks towards the second person, while the second person also walks towards him/her.
+Two people walk towards each other, facing one another.
+Two people face each other and walk towards each other, stopping when they reach one another.

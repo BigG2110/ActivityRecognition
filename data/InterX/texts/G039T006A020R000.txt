@@ -1,0 +1,3 @@
+Two people face each other, one person using his/her left hand and the other person using his/her right hand to play rock-paper-scissors. They play a total of three rounds.
+Two people face each other and play rock-paper-scissors. They play three rounds, with the first round being stone against stone, the second round being stone against stone, and the third round being stone against stone.
+Two people are playing rock-paper-scissors above their heads.

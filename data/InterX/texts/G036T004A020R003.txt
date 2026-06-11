@@ -1,0 +1,3 @@
+Two people stand facing each other, swinging their hands and making gestures simultaneously. They then rotate, continuing to swing their hands and make gestures. Finally, they rotate once more, continuing to swing their hands and make gestures.
+Two people play rock, paper, scissors. One person uses his/her left hand to make a rock sign, then turns left and makes a rock sign with his/her left hand. After turning right, he/she makes a rock sign with his/her right hand. The other person uses his/her right hand to make a stone sign, turns right, makes a stone sign, and then uses his/her left hand to make a stone sign.
+Two people stand. One person holds out his/her left hand, while the other person holds out his/her right hand. They take turns guessing and then switch hands.

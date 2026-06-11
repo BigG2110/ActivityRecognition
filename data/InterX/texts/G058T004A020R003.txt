@@ -1,0 +1,3 @@
+The first guy repeatedly swings with his right hand, producing rock-paper-scissors, while the second guy also repeatedly produces rock-paper-scissors with his right hand.
+The two individuals face each other and extend their right hands for a game of rock-paper-scissors. They play two rounds in total. In the first round, both of them choose scissors. In the second round, both of them choose rock.
+Two people face each other and play rock, paper, scissors three times with their right hands, moving from their heads to the front of their abdomens.

@@ -1,0 +1,3 @@
+One person runs after the other person, and he/she runs after the first person, resulting in a continuous cycle of running in circles.
+The first man chases the second man and he both run around in circles. Then, the second person changes direction and starts chasing the first person. The first person immediately turns the other way and they start chasing each other again.
+The first person runs forward, and the second person runs behind to chase him/her, and then turns to chase him/her again.

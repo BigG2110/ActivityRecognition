@@ -1,0 +1,3 @@
+The two people stand face to face, walk towards each other, collide, and then turn in the direction of the other person.
+The first person walks towards the second person, and the second person avoids to the left. Then, the first person stops.
+One person walks towards the other person and extends his/her hand, attempting to hold the other person's right hand, but the other person sidesteps to the left, avoiding the gesture.

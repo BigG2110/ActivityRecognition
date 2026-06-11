@@ -1,0 +1,3 @@
+The first person walks towards the second person and passes by his/her right side, while the second person takes a few steps towards the first person.
+The initial individual moves in the direction of the subsequent individual and goes past him/her on his/her right, while the subsequent individual advances a few steps towards the initial individual.
+The first person stands while the second person walks towards him/her. As they pass each other, they exchange glances before the first person continues walking forward.

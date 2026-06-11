@@ -1,0 +1,3 @@
+The first person sits on a bench. The second person walks towards him/her and turns left. The first person stands up and takes a few steps forward.
+The first person stands up while the second person walks towards him.
+One person sits on a chair, another person walks towards him/her, and then the person stands up.

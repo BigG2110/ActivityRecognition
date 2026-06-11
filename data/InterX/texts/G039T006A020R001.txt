@@ -1,0 +1,3 @@
+Two people face each other, simultaneously extending their right hands to play rock-paper-scissors. A winner is determined after every three rounds in the first six rounds. In the ninth round, the person who initially used his/her right hand switches to using his/her left hand.
+Two people face each other and play rock-paper-scissors. In the first round, both players choose stone. In the second round, both players also choose stone. In the third round, one player chooses cloth and the other player chooses scissors.
+Two people are playing a finger guessing game, and on the third try, the other person uses a different hand.

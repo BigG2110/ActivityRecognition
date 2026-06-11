@@ -1,0 +1,3 @@
+A person is chasing another person who is seated. The seated person stands up, takes a few steps, but gets caught by the pursuer.
+The initial individual occupies the seat, the subsequent individual remains upright, and subsequently pursues him/her. The first individual rises from the chair and proceeds to sprint a short distance.
+The first person sits on the chair, the second person stands, and then chases after him/her. The first person gets up from the chair and runs a few steps.

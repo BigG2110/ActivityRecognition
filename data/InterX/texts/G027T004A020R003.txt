@@ -1,0 +1,3 @@
+Two people play rock-paper-scissors. The first round is rock vs. rock, the second round is scissors vs. rock, and the third round is rock vs. rock.
+Two people play rock, paper, scissors. The first person sits and raises his/her right hand, while the second person stands in front of him/her and stretches out his/her right hand. They play four rounds.
+One person sits upright and the other person stands as they play rock-paper-scissors with his/her right hand.

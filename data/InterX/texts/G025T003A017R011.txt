@@ -1,0 +1,3 @@
+One person follows the other person who is sitting, and when the sitting person stands up, the first person chases him/her in a clockwise circle.
+One person quickly stands up and is chased by the other.
+One person runs from behind, approaching the other person. The second person gets up and starts running to evade being caught.

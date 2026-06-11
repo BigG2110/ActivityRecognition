@@ -1,0 +1,3 @@
+The first person takes small quick steps and runs forward, while the second person chases him/her and runs in circles alongside.
+The initial individual moves in a clockwise direction in circular paths, while the second individual pursues from the rear, until he/she reaches the same position as the first individual, at which juncture both of them cease their movement.
+The first person runs clockwise in circles, and the second person chases from behind, until he/she catches up with the first person, at which point both of them stop.

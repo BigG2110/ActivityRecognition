@@ -1,0 +1,3 @@
+Two people stand facing each other and play rock-paper-scissors. They make right-handed gestures simultaneously, while their left hands rest naturally at their sides. They repeat this action three times.
+Two individuals face each other and engage in a game of rock-paper-scissors. They execute right-handed movements simultaneously, while their left hands remain in a relaxed position by their sides. This sequence is repeated thrice.
+Two people face each other, one sitting down, and both raise their right hands to play rock-paper-scissors, both choosing rock.

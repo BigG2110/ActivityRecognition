@@ -1,0 +1,3 @@
+The first person walks towards the second person, and the second person follows as the first person turns right in front of him/her.
+The first person stands while the second person walks towards him/her, extending his/her left hand to the right. The second person continues to follow the first person as they both move to the right.
+Two people face each other. One person walks towards the other person, and when he/she comes side by side, they both turn and walk together.

@@ -1,0 +1,3 @@
+The first person stands in front of the other person at first and begins to chase him as the second person walks towards him.
+The first person walks towards the second person, then turns and starts running, and the second person chases after him/her.
+Two people face each other. One person sits down, and the other person starts running. The seated person stands up and begins to chase the running person.

@@ -1,0 +1,3 @@
+The two people raise their right hands to play a game of rock-paper-scissors. They play a total of four rounds, with quick moves.
+Two people are playing finger-guessing. One person shows scissors, paper, rock, and scissors. The other person shows paper, rock, rock, and then paper.
+Two people stand facing each other, one raises his/her fist above his/her head, the other raises his/her fist above his/her head, and then they perform rock-paper-scissors.

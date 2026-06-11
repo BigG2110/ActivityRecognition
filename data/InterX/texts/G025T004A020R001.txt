@@ -1,0 +1,3 @@
+A person standing and another person sitting both raise his/her right hand simultaneously to play finger-guessing. The standing person reveals scissors first, then rock, and finally paper. The sitting person chooses rock for the first round, paper for the second round, and scissors for the third round.
+One person stands while the other person sits and they play rock, paper, scissors.
+Two people face each other, playing a hand-slapping game. They extend their right hands simultaneously. In the first two rounds, they both choose "rock." However, in the final round, one person chooses "paper" while the other person chooses "rock."

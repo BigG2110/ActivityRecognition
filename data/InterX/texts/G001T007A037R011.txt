@@ -1,0 +1,3 @@
+The first person greets the second person by extending their right hand from the back. The second person notices that and looks back by turning right.
+The first person stands behind the second person, raises his/her right hand, and waves it in front of his/her chest. The second person turns clockwise and looks back.
+Two people stand in the same direction, one in front and one behind. The person behind raises his/her right hand to his/her chest, signaling, and the person in front turns clockwise.
