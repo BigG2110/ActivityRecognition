@@ -1,99 +1,93 @@
 import os
-import pandas as pd
-import numpy as np
+from collections import Counter
 
-# Configurazione dei percorsi nel repository ActivityRecognition
-# Lo script si trova in src/, quindi sale di un livello per andare in data/csv
-CSV_DIR = os.path.join("..", "data", "csv")
+# Struttura cartelle nel repository ActivityRecognition
+ANNOTATIONS_DIR = os.path.join("..", "data", "InterX", "annotations")
 
-def inspect_activity_dataset():
-    print("=" * 65)
-    print("  DETAILED INSPECTION: HUMAN INTERACTION RECOGNITION DATASET")
-    print("=" * 65)
+FILE_ACTION_SETTING = os.path.join(ANNOTATIONS_DIR, "action_setting.txt")
+FILE_FAMILIARITY = os.path.join(ANNOTATIONS_DIR, "familiarity.txt")
+FILE_ALL = os.path.join(ANNOTATIONS_DIR, "all.txt")
+FILE_TRAIN = os.path.join(ANNOTATIONS_DIR, "train.txt")
+FILE_VAL = os.path.join(ANNOTATIONS_DIR, "val.txt")
+FILE_TEST = os.path.join(ANNOTATIONS_DIR, "test.txt")
+
+# Mappatura semantica dei livelli di familiarità (Interpersonal Stance)
+FAMILIARITY_MAP = {
+    "1": "Estranei / Sconosciuti (Strangers)",
+    "2": "Casual Acquantances (Conoscenti)",
+    "3": "Amici / Colleghi (Friends/Colleagues)",
+    "4": "Relazione Intima / Stretta (Intimate)"
+}
+
+def read_lines(file_path):
+    if not os.path.exists(file_path):
+        return []
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return [line.strip() for line in f if line.strip()]
+
+def inspect_interx():
+    print("=" * 70)
+    print("  INTER-X DATASET EXPLORATORY ANALYSIS (AGENT PERSPECTIVE)")
+    print("=" * 70)
+
+    # 1. Caricamento del catalogo delle azioni dell'agente
+    actions = read_lines(FILE_ACTION_SETTING)
+    print(f"\n[1] CATALOGO DELLE AZIONI PERCEPITE DALL'AGENTE:")
+    print(f"  * Numero totale di azioni atomiche configurate: {len(actions)}")
+    if actions:
+        print(f"  * Esempi di azioni sociali: {actions[0]} (0), {actions[1]} (1), {actions[16]} (16)")
+
+    # 2. Analisi degli Split (Training, Validation, Test)
+    train_seqs = read_lines(FILE_TRAIN)
+    val_seqs = read_lines(FILE_VAL)
+    test_seqs = read_lines(FILE_TEST)
+    all_seqs = read_lines(FILE_ALL)
+
+    print(f"\n[2] DISTRIBUZIONE DELLE SEQUENZE NEGLI SPLIT:")
+    print(f"  - Sequenze di Addestramento (Train): {len(train_seqs)}")
+    print(f"  - Sequenze di Calibrazione (Val):    {len(val_seqs)}")
+    print(f"  - Sequenze di Valutazione (Test):    {len(test_seqs)}")
+    print(f"  - Totale sequenze indicizzate:        {len(all_seqs)}")
+
+    # 3. Analisi della Familiarità Sociale (Modello di Relazione Multi-Agente)
+    familiarity_labels = read_lines(FILE_FAMILIARITY)
     
-    if not os.path.exists(CSV_DIR):
-        print(f"Errore: La cartella {CSV_DIR} non esiste.")
-        print("Verifica di aver posizionato i CSV in ActivityRecognition/data/csv/")
-        return
+    print(f"\n[3] ANALISI DELLE RELAZIONI INTERPERSONALI (FAMILIARITÀ):")
+    if len(familiarity_labels) == len(all_seqs):
+        fam_counts = Counter(familiarity_labels)
+        for code, count in sorted(fam_counts.items()):
+            label_name = FAMILIARITY_MAP.get(code, "Sconosciuto")
+            percentage = (count / len(all_seqs)) * 100
+            print(f"  - Livello {code} [{label_name}]: {count} interazioni ({percentage:.1f}%)")
+    else:
+        print("  ⚠️ Attenzione: Il file familiarity.txt non corrisponde 1:1 con all.txt")
 
-    # Individuiamo le sotto-cartelle (le classi/azioni fisiche)
-    subfolders = [f for f in os.listdir(CSV_DIR) if os.path.isdir(os.path.join(CSV_DIR, f))]
-    
-    if not subfolders:
-        print(f"Nessuna cartella trovata in {CSV_DIR}")
-        return
-
-    print(f"\n[1] AZIONI FISICHE/INTERAZIONI TROVATE ({len(subfolders)} classi):")
-    
-    total_sequences = 0
-    all_lengths = []
-    class_stats = {}
-
-    # Scansione di ogni cartella di interazione
-    for class_name in subfolders:
-        class_path = os.path.join(CSV_DIR, class_name)
-        csv_files = [f for f in os.listdir(class_path) if f.endswith('.csv')]
+    # 4. Decodifica Semantica di un esempio (Simulazione di Percezione dell'Agente)
+    print(f"\n[4] SIMULAZIONE DECODIFICA AGENTE DI VISIONE (Esempio riga 5):")
+    if len(all_seqs) > 5 and len(actions) > 0:
+        sample_seq = all_seqs[5] # Scegliamo una riga di esempio
+        sample_fam = familiarity_labels[5] if len(familiarity_labels) > 5 else "1"
         
-        num_files = len(csv_files)
-        total_sequences += num_files
-        
-        lengths_in_class = []
-        
-        # Analizziamo la durata (numero di frame) di ogni file in questa classe
-        for csv_file in csv_files:
-            file_path = os.path.join(class_path, csv_file)
-            # index_col=0 serve perché la prima colonna è l'indice del frame (0, 1, 2...)
-            df = pd.read_csv(file_path, index_col=0)
-            lengths_in_class.append(len(df))
-            all_lengths.append(len(df))
+        # Estraiamo i token strutturati GxxxTxxxAxxxRxxx
+        # Esempio: G001T000A001R005
+        try:
+            group_id = sample_seq.split('T')[0] # G001
+            task_id = 'T' + sample_seq.split('T')[1].split('A')[0] # T000
+            action_idx = int(sample_seq.split('A')[1].split('R')[0]) # 1
+            rep_id = 'R' + sample_seq.split('R')[1] # R005
             
-        if num_files > 0:
-            avg_len = np.mean(lengths_in_class)
-            min_len = np.min(lengths_in_class)
-            max_len = np.max(lengths_in_class)
-            class_stats[class_name] = {
-                "count": num_files,
-                "avg_frames": avg_len,
-                "min_frames": min_len,
-                "max_frames": max_len
-            }
-            print(f"  - '{class_name}': {num_files} video/sequenze")
-            print(f"    └─ Durata frame: media {avg_len:.1f} (min: {min_len}, max: {max_len})")
-        else:
-            print(f"  - '{class_name}': 0 file CSV trovati.")
-
-    print("\n" + "-"*50)
-    print("[2] STATISTICHE GLOBALI DEL DATASET:")
-    print(f"  - Numero totale di sequenze (esempi di addestramento): {total_sequences}")
-    if all_lengths:
-        print(f"  - Durata media di un'interazione: {np.mean(all_lengths):.1f} frame")
-        print(f"  - Sequenza più corta: {np.min(all_lengths)} frame")
-        print(f"  - Sequenza più lunga: {np.max(all_lengths)} frame")
-
-    # 3. Ispezione profonda di una riga di esempio per la relazione tecnica
-    print("\n" + "-"*50)
-    print("[3] ESTRATTO STRUTTURA DATI PER RELAZIONE TECNICA:")
-    
-    # Prendiamo il primo file disponibile per mostrare la struttura
-    sample_class = subfolders[0]
-    sample_class_path = os.path.join(CSV_DIR, sample_class)
-    sample_files = [f for f in os.listdir(sample_class_path) if f.endswith('.csv')]
-    
-    if sample_files:
-        sample_path = os.path.join(sample_class_path, sample_files[0])
-        df_sample = pd.read_csv(sample_path, index_col=0)
-        
-        print(f"  - File analizzato: {sample_class}/{sample_files[0]}")
-        print(f"  - Numero totale di colonne nel file: {df_sample.shape[1]}")
-        print(f"  - Interpretazione Multi-Agente (Sensing):")
-        print(f"    * Colonne 0-33  (34 feature): Coordinate X,Y dei 17 keypoint di Persona 1")
-        print(f"    * Colonne 34-67 (34 feature): Coordinate X,Y dei 17 keypoint di Persona 2")
-        print("\n  - Anteprima coordinate spaziali dei primi 2 frame:")
-        # Mostriamo solo le prime colonne per leggibilità
-        print(df_sample.iloc[:2, :6]) 
-        print("    ... [i dati continuano per tutte le 68 colonne di feature] ...")
-    
-    print("=" * 65)
+            action_name = actions[action_idx] if action_idx < len(actions) else "Indice Azione Fuori Tracciato"
+            
+            print(f"  * Codice grezzo percepito dai sensori: {sample_seq}")
+            print(f"  * Analisi Contesto dell'Agente Head:")
+            print(f"    └─ Identificativo Coppia Agenti: {group_id}")
+            print(f"    └─ Obiettivo/Task della scena:   {task_id}")
+            print(f"    └─ Azione Fisica Identificata:   {action_name} (Codice: A{action_idx:03d})")
+            print(f"    └─ Livello Relazionale Attivo:   {FAMILIARITY_MAP.get(sample_fam)}")
+        except Exception as e:
+            print(f"  Impossibile decodificare la stringa d'esempio: {e}")
+            
+    print("=" * 70)
 
 if __name__ == "__main__":
-    inspect_activity_dataset()
+    inspect_interx()
